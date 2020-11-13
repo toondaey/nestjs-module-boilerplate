@@ -1,8 +1,8 @@
 Before you submit your Pull Request (PR) consider the following guidelines:
 
-1. Search [GitHub](https://github.com/toondaey/nestjs-pdf/pulls) for an open or closed PR
+1. Search [GitHub](https://github.com/toondaey/nestjs-module-boilerplate/pulls) for an open or closed PR
    that relates to your submission. You don't want to duplicate effort.
-1. Fork the toondaey/nestjs-pdf.
+1. Fork the toondaey/nestjs-module-boilerplate.
 1. Make your changes in a new git branch:
 
     ```shell
@@ -28,7 +28,7 @@ Before you submit your Pull Request (PR) consider the following guidelines:
     git push origin my-fix-branch
     ```
 
-1. In GitHub, send a pull request to `toondaey/nestjs-pdf:master`.
+1. In GitHub, send a pull request to `toondaey/nestjs-module-boilerplate:master`.
 
 -   If we suggest changes then:
 
@@ -81,7 +81,7 @@ to read on GitHub as well as in various git tools.
 
 Footer should contain a [closing reference to an issue](https://help.github.com/articles/closing-issues-via-commit-messages/) if any.
 
-Samples: (even more [samples](https://github.com/toondaey/nestjs-pdf/commits/master))
+Samples: (even more [samples](https://github.com/toondaey/nestjs-module-boilerplate/commits/master))
 
 ```
 docs(changelog): update change log to beta.5
