@@ -79,7 +79,7 @@ export class ExampleModule {
         return {
             provide: EXAMPLE_OPTIONS_TOKEN,
             useFactory: (factory: ExampleOptionsFactory) =>
-                factory.createPdfOptions(),
+                factory.createExampleOptions(),
             inject,
         };
     }

@@ -7,7 +7,7 @@ import {
 
 @Injectable()
 export class ExampleConfigService implements ExampleOptionsFactory {
-    createPdfOptions(): ExampleModuleOptions {
+    createExampleOptions(): ExampleModuleOptions {
         return {};
     }
 }
