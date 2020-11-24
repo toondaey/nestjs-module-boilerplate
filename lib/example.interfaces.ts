@@ -5,7 +5,7 @@ import { ModuleMetadata } from '@nestjs/common/interfaces';
 export type ExampleModuleOptions = {};
 
 export interface ExampleOptionsFactory {
-    createPdfOptions(): ExampleModuleOptions;
+    createExampleOptions(): ExampleModuleOptions;
 }
 
 export interface ExampleModuleAsyncOptions
