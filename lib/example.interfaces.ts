@@ -2,7 +2,7 @@ import { Type } from '@nestjs/common';
 import { ModuleMetadata } from '@nestjs/common/interfaces';
 
 // Will most likely be an interface
-export type ExampleModuleOptions = {};
+export type ExampleModuleOptions = Record<string, any>;
 
 export interface ExampleOptionsFactory {
     createExampleOptions(): ExampleModuleOptions;
