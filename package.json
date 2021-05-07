@@ -42,7 +42,7 @@
     "@nestjs/platform-express": "7.6.15",
     "@nestjs/testing": "7.6.15",
     "@types/jest": "26.0.22",
-    "@types/node": "13.13.48",
+    "@types/node": "13.13.51",
     "@types/rimraf": "3.0.0",
     "@typescript-eslint/eslint-plugin": "4.20.0",
     "@typescript-eslint/parser": "4.20.0",
